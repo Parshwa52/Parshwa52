@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### I am Parshwa Shah. I have graduated from Sardar Patel Institute of Technology in 2022 in B.Tech. Computer Engineering. I am very optimistic about web3 and blockchain technology. I have worked on multiple Blockchain and Ethereum projects. I have won bounties in 6+ Blockchain international as well as national hackathons. I like to work at the intersection of business and technology. I am AWS Certified Cloud Practitioner. Apart from that, my hobbies are playing chess, swimming, reading about social issues, geopolitics and development economics. 
 <!--
 **Parshwa52/Parshwa52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
